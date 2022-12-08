@@ -50,7 +50,7 @@ function EyePos( ply, default )
 end
 
 function EyeAngles( ply, default )
-    local eyes = GetEyes()
+    local eyes = GetEyes( ply )
     if (eyes) then
         return eyes.Ang
     end

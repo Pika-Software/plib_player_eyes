@@ -1,4 +1,4 @@
-# plib_player_eyes
+# Player Eyes
 Player eye level calculation module.
 
 ## Requires
